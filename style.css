@@ -1,11 +1,34 @@
+head {
+
+}
+
 body {
+         /* font-Family */
   font-family: 'Ubuntu Mono', monospace;
+  text-align: center;
+  background-color: black;
+  color: white;
+
+         /* Backround image*/
+  background-image: url("images/kali.png");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
 }
-body {
-   background-image: url("images/kali.png");
-   background-repeat: no-repeat;
-   background-attachment: scroll;
+
+.pagelink {
+  border-radius: 20px;
+  background: #ffffff;
+  padding:6px;
+  width: 1px;
+  height: 5px;
+
+
 }
-.p1{
-  font-family: "mono"
+
+.weblink {
+  border-radius: 15px;
+  background: #ffffff;
+  padding: 4px;
+  width: 1px;
+  height: 5px;
 }
