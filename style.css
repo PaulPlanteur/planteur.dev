@@ -1,0 +1,11 @@
+body {
+  font-family: 'Ubuntu Mono', monospace;
+}
+body {
+   background-image: url("images/kali.png");
+   background-repeat: no-repeat;
+   background-attachment: scroll;
+}
+.p1{
+  font-family: "mono"
+}
